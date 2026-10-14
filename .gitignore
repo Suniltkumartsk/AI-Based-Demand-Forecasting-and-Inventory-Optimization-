@@ -1,0 +1,27 @@
+# Python virtual environments & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Power BI temp files
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Matplotlib & Font Caches
+fontlist-*.json
+data/fontlist-*.json
+
+# Local scripts
+rebuild_history.ps1
+
+
