@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Streamlit: Run Interactive Dashboard",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "${workspaceFolder}/app.py"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Train & Optimize Pipeline",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/train_and_optimize.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Process Retail Inventory Data",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/generate_data.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
