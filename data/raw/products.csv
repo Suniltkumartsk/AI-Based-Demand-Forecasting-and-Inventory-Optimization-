@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price,holding_cost_annual_pct,order_cost,lead_time_days,lead_time_std,base_demand
+P0001,P0001 (Groceries),Groceries,54.55,0.2,42.0,3,0.6,681
+P0002,P0002 (Furniture),Furniture,55.27,0.2,44.0,14,1.8,667
+P0003,P0003 (Groceries),Groceries,54.89,0.2,46.0,3,0.6,675
+P0004,P0004 (Electronics),Electronics,55.54,0.2,48.0,10,1.4,678
+P0005,P0005 (Groceries),Groceries,55.02,0.2,50.0,3,0.6,689
+P0006,P0006 (Groceries),Groceries,54.77,0.2,52.0,3,0.6,680
+P0007,P0007 (Electronics),Electronics,54.92,0.2,54.0,10,1.4,683
+P0008,P0008 (Electronics),Electronics,55.35,0.2,56.0,10,1.4,668
+P0009,P0009 (Furniture),Furniture,55.16,0.2,58.0,14,1.8,687
+P0010,P0010 (Toys),Toys,55.36,0.2,60.0,7,1.2,679
+P0011,P0011 (Electronics),Electronics,56.43,0.2,62.0,10,1.4,683
+P0012,P0012 (Clothing),Clothing,54.96,0.2,64.0,7,1.0,673
+P0013,P0013 (Groceries),Groceries,55.06,0.2,66.0,3,0.6,685
+P0014,P0014 (Toys),Toys,55.76,0.2,68.0,7,1.2,694
+P0015,P0015 (Furniture),Furniture,54.77,0.2,70.0,14,1.8,694
+P0016,P0016 (Groceries),Groceries,54.83,0.2,72.0,3,0.6,696
+P0017,P0017 (Clothing),Clothing,54.65,0.2,74.0,7,1.0,685
+P0018,P0018 (Electronics),Electronics,54.82,0.2,76.0,10,1.4,674
+P0019,P0019 (Clothing),Clothing,55.08,0.2,78.0,7,1.0,681
+P0020,P0020 (Toys),Toys,55.52,0.2,80.0,7,1.2,695
